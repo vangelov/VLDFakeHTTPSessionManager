@@ -1,0 +1,31 @@
+ [
+  {
+    "name": "Peter Griffin",
+    "age": 42
+  },
+  
+  {
+    "name": "Lois Griffin",
+    "age": 40
+  },
+  
+  {
+    "name": "Meg Griffin",
+    "age": 16
+  },
+  
+  {
+    "name": "Chris Griffin",
+    "age": 13
+  },
+  
+  {
+    "name": "Brian",
+    "age": 7
+  },
+  
+  {
+    "name": "Stewie Griffin",
+    "age": 1
+  }
+]
