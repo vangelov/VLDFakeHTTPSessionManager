@@ -18,8 +18,6 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     
-    NSLog(@"HERE");
-    
     [self initUserService];
     [self loadUsers];
     
